@@ -1,0 +1,16 @@
+<!DOCUTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>链接标签学习</title>    
+</head>    
+<body>
+<!-- a标签学习
+herf:必填，表示要跳转的那个页面
+-->
+<a herf="http:/www.baidu.com">点击跳转到百度</a>
+<a herf="标题.html">点击跳转标签学习1</a>    
+    
+    
+</body>    
+</html>
